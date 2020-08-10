@@ -1,0 +1,362 @@
+.pag_cont_banner{
+    height: 100vh;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover ;
+    background-image: url("../IMG/1.jpg");
+}
+.pag_sobra{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    -ms-transform: translate(-50%,-50%);
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    padding: 20px;
+    width: 70%;
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    margin: auto;
+
+}
+.pag_sobra hr{
+    border-top: 2px solid #fff;
+}
+.pag_sobra h1{
+    font-size: 6vw;
+    margin-bottom: 10px;
+
+}
+.pag_sobra p{
+    font-size: 2vw;
+    margin-bottom: 10px;
+}
+.pag_cont_banner_link{
+    margin: 15px;
+    position: relative;
+
+}
+.pag_cont_banner link a{
+    display: inline-block;
+    color: #fff;
+    text-decoration: none;
+    border:1px #fff ;
+    padding: 1px;
+    margin-bottom: 5px;
+    width: 150px;
+}
+
+
+
+
+
+
+
+
+
+
+.pag_sobraofertas{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    -ms-transform: translate(-50%,-50%);
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-9%);
+    padding: 20px;
+    width: 100%;
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    margin: auto;
+
+}
+
+.pag_sobraofertas hr{
+    border-top: 2px solid rgb(255, 255, 255)
+}
+.pag_sobraofertas h1{
+    font-size: 6vw;
+    margin-bottom: 10px;
+
+}
+.pag_sobraofertas p{
+    font-size: 2vw;
+    margin-bottom: 10px;
+}
+.pag_cont_bannerofertas_link{
+    margin: 15px;
+    position: relative;
+
+}
+.pag_cont_bannerofertas_link a{
+    display: inline-block;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    border:1px rgb(255, 255, 255) ;
+    padding: 1px;
+    margin-bottom: 5px;
+    width: 150px;
+}
+.pag_cont_bannerofertas_link{
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url("../IMG/2.jpg");
+}
+.pag_cont_bannerofertas1_link{
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url("../IMG/3.jpg");
+}
+.pag_cont_bannerofertas2_link{
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url("../IMG/4.jpg");
+}
+.pag_cont_bannerofertas3_link{
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url("../IMG/5.jpg");
+}
+.pag_cont_bannerofertas4_link{
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url("../IMG/6.jpg");
+}
+
+
+
+
+
+
+
+
+.pag_sobraproductos{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    -ms-transform: translate(-50%,-50%);
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-9%);
+    padding: 20px;
+    width: 100%;
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    margin: auto;
+
+}
+
+.pag_sobraproductos hr{
+    border-top: 2px solid rgb(255, 255, 255)
+}
+.pag_sobraproductos h1{
+    font-size: 6vw;
+    margin-bottom: 10px;
+
+}
+.pag_sobraproductos p{
+    font-size: 2vw;
+    margin-bottom: 10px;
+}
+.pag_cont_bannerproductos_link{
+    margin: 1px;
+    position: relative;
+
+}
+.pag_cont_bannerproductos link a{
+    display: inline-block;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    border:1px rgb(255, 255, 255) ;
+    padding: 1px;
+    margin-bottom: 5px;
+    width: 150px;
+}
+.pag_cont_bannerproductos5_link{
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url("../IMG/7.jpg");
+}
+.pag_cont_bannerproductos6_link{
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url("../IMG/8.jpg");
+}
+.pag_cont_bannerproductos7_link{
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url("../IMG/9.jpg");
+}
+.pag_cont_bannerproductos8_link{
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url("../IMG/10.jpg");
+}
+.pag_cont_bannerproductos9_link{
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url("../IMG/11.jpg");
+}
+
+
+
+
+
+
+
+
+
+
+.pag_sobraquienessomos{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    -ms-transform: translate(-50%,-50%);
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    padding: 20px;
+    width: 100%;
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    margin: auto;
+
+}
+.pag_sobraquienessomos hr{
+    border-top: 2px solid rgb(255, 255, 255)
+}
+.pag_sobraquienessomos h1{
+    font-size: 6vw;
+    margin-bottom: 10px;
+
+}
+.pag_sobraquienessomos p{
+    font-size: 2vw;
+    margin-bottom: 10px;
+}
+.pag_cont_bannerquienessomos_link{
+    margin: 15px;
+    position: relative;
+
+}
+.pag_cont_bannerquienessomos link a{
+    display: inline-block;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    border:1px rgb(255, 255, 255) ;
+    padding: 1px;
+    margin-bottom: 5px;
+    width: 150px;
+}
+
+
+
+
+
+
+
+
+
+.pag_sobraservicios{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    -ms-transform: translate(-50%,-50%);
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    padding: 20px;
+    width: 100%;
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    margin: auto;
+
+}
+.pag_sobraservicios hr{
+    border-top: 2px solid rgb(255, 255, 255)
+}
+.pag_sobraservicios h1{
+    font-size: 6vw;
+    margin-bottom: 10px;
+
+}
+.pag_sobraservicios p{
+    font-size: 2vw;
+    margin-bottom: 10px;
+}
+.pag_cont_bannerservicios_link{
+    margin: 15px;
+    position: relative;
+
+}
+.pag_cont_bannerservicios link a{
+    display: inline-block;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    border:1px rgb(255, 255, 255) ;
+    padding: 1px;
+    margin-bottom: 5px;
+    width: 150px;
+}
+
+
+
+
+
+
+
+
+
+.pag_sobracontactanos{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    -ms-transform: translate(-50%,-50%);
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    padding: 20px;
+    width: 100%;
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    margin: auto;
+
+}
+.pag_sobracontactanos hr{
+    border-top: 2px solid rgb(255, 255, 255)
+}
+.pag_sobracontactanos h1{
+    font-size: 6vw;
+    margin-bottom: 10px;
+
+}
+.pag_sobracontactanos p{
+    font-size: 2vw;
+    margin-bottom: 10px;
+}
+.pag_cont_bannercontactanos_link{
+    margin: 15px;
+    position: relative;
+
+}
+.pag_cont_bannercontactanos link a{
+    display: inline-block;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    border:1px rgb(255, 255, 255) ;
+    padding: 1px;
+    margin-bottom: 5px;
+    width: 150px;
+}
